@@ -9,7 +9,8 @@ Gupshup is an engagement tool used by us primarily to send whatsapp messages thr
 
 For an application seeking use Gupshup to establish a Whatsapp interface;
 
-- The Application makes authenticated API Calls to Gupshup as elaborated in the [Enterprise Guide](Gupshup Enterprise Pull API Document.pdf).
+- The Application makes authenticated API Calls to Gupshup as elaborated in the [Enterprise Guide](Gupshup%20Enterprise%20Pull%20API%20Document.pdf)
+.
 - Gupshup interfaces with Whatsapp to send messages and recieve responses.
 - Nginx recieves delivery reports, user messages, and other responses from Gupshup webhook.
 - Nginx acts as a Reverse Proxy and sends relevant data to the application.
